@@ -1,0 +1,5 @@
+The developed module expertly filters out all signs, symbols, numbers, stop words, common verbs, spaces, and any non-keyword elements from the input text. This cleansing process was successfully tested on various text samples, including files with diverse punctuation (like File 1) and large volumes of general Persian text (like File 2).
+
+A key achievement of this module is its exceptional processing speed. As demonstrated by the project's speed chart, the entire cleansing and dictionary generation process for large datasets is completed in approximately one second, operating in the blink of an eye.
+
+Throughout the module's design, meticulous attention was paid to the smallest details and optimizations. The best algorithmic and engineering decisions were implemented to ensure the final output is highly accurate, refined, and extremely fast.
